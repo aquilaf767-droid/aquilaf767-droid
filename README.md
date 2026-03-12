@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-eu nome é Áquila, sou estudante da área de tecnologia, atualmente cursando formação voltada para desenvolvimento de sistemas e banco de dados. Tenho interesse em aprender e aprimorar minhas habilidades em programação, modelagem de dados e desenvolvimento de aplicações. Neste repositório compartilho projetos, atividades acadêmicas e experimentos que fazem parte do meu processo de aprendizado e evolução na área de tecnologia.
+Meu nome é Áquila, sou estudante da área de tecnologia, atualmente cursando formação voltada para desenvolvimento de sistemas e banco de dados. Tenho interesse em aprender e aprimorar minhas habilidades em programação, modelagem de dados e desenvolvimento de aplicações. Neste repositório compartilho projetos, atividades acadêmicas e experimentos que fazem parte do meu processo de aprendizado e evolução na área de tecnologia.
 
 
 ---
@@ -125,22 +125,3 @@ eu nome é Áquila, sou estudante da área de tecnologia, atualmente cursando fo
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
