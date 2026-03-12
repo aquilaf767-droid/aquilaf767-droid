@@ -1,6 +1,6 @@
 # 😎 Áquila Ferreira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Meu nome é Áquila, sou estudante da área de tecnologia, atualmente cursando formação voltada para desenvolvimento de sistemas e banco de dados. Tenho interesse em aprender e aprimorar minhas habilidades em programação, modelagem de dados e desenvolvimento de aplicações. Neste repositório compartilho projetos, atividades acadêmicas e experimentos que fazem parte do meu processo de aprendizado e evolução na área de tecnologia.
 
